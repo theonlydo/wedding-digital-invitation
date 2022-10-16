@@ -4,10 +4,10 @@
             <div class="uk-container uk-container-small">
                 <h2 class="tw-text-3xl tw-mt-3 sm:tw-text-4xl md:tw-text-5xl yn-color tw-text-center uk-scrollspy-inview">
                     Save The Date </h2>
-                <p class="tw-text-center tw-mt-2 tw-mb-8 tw-text-md">Minggu, 07 November 2021</p>
+                <p class="tw-text-center tw-mt-2 tw-mb-8 tw-text-md">Ahad, 11 Desember 2022</p>
 
                 <div class="uk-grid-small uk-flex-center uk-child-width-auto yn-color2 yn-anim uk-grid uk-countdown uk-scrollspy-inview"
-                    uk-grid uk-countdown="date: 2021-11-07T11:00:00+07:00">
+                    uk-grid uk-countdown="date: 2022-12-11T11:00:00+07:00">
                     <div>
                         <div class="sm:tw-text-4xl md:tw-text-5xl tw-font-semibold uk-countdown-number uk-countdown-days">
                         </div>
