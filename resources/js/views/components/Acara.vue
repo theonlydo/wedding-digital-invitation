@@ -70,14 +70,14 @@
                                 <img class="tw-mx-auto" src="assets/images/pemisah.png" alt="divider">
                             </div>
 
-                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Villa Lagenta </p>
+                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Jalan Suka Karya </p>
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
-                                Jl. Kol. Masturi No. 8, Lembang, Jawa Barat 40391 </p>
+                                Perumahan Wisma Kualu Tahap III Blok Q No. 7 </p>
 
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
                             </p>
 
-                            <a href="https://goo.gl/maps/GrcAzNeiZMVEhWzcA"
+                            <a href="https://maps.app.goo.gl/863PD3bt9YUbVAMa7?g_st=ic"
                                 class="uk-button uk-button-default uk-button-small btn-white"
                                 style="margin-top:16px; padding: 4px 16px; border-radius: 20px;">Lihat Lokasi Via Google Map
                                 <span uk-icon="icon: arrow-right" class="uk-icon"><svg width="20" height="20"

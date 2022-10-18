@@ -4881,39 +4881,21 @@ var staticRenderFns = [
               "ul",
               { staticClass: "uk-accordion", attrs: { "uk-accordion": "" } },
               [
-                _c("li", { staticClass: "uk-open" }, [
-                  _c(
-                    "a",
-                    { staticClass: "uk-accordion-title", attrs: { href: "#" } },
-                    [_vm._v("OVO")]
-                  ),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "uk-accordion-content" }, [
-                    _c("img", {
-                      staticClass: "tw-mx-auto tw-h-auto",
-                      attrs: {
-                        src: "assets/images/gifts/ovo.jpg",
-                        width: "400",
-                        alt: "OVO QR CODE",
-                      },
-                    }),
-                  ]),
-                ]),
                 _vm._v(" "),
                 _c("li", { staticClass: "uk-open" }, [
                   _c(
                     "a",
                     { staticClass: "uk-accordion-title", attrs: { href: "#" } },
-                    [_vm._v("BCA")]
+                    [_vm._v("QRIS")]
                   ),
                   _vm._v(" "),
                   _c("div", { staticClass: "uk-accordion-content" }, [
                     _c("img", {
                       staticClass: "tw-mx-auto tw-h-auto",
                       attrs: {
-                        src: "assets/images/gifts/bca.jpg",
+                        src: "assets/images/gifts/qris.png",
                         width: "400",
-                        alt: "BCA QR CODE",
+                        alt: "QRIS",
                       },
                     }),
                   ]),
@@ -5424,7 +5406,7 @@ var render = function () {
                     {
                       staticClass: "tw-text-1xl tw-text-center md:tw-text-2xl",
                     },
-                    [_vm._v(" Villa Lagenta ")]
+                    [_vm._v(" Jalan Suka Karya ")]
                   ),
                   _vm._v(" "),
                   _c(
@@ -5438,7 +5420,7 @@ var render = function () {
                     },
                     [
                       _vm._v(
-                        "\n                            Jl. Kol. Masturi No. 8, Lembang, Jawa Barat 40391 "
+                        "\n                            Perumahan Wisma Kualu Tahap III Blok Q No. 7 "
                       ),
                     ]
                   ),
@@ -5461,7 +5443,7 @@ var render = function () {
                         padding: "4px 16px",
                         "border-radius": "20px",
                       },
-                      attrs: { href: "https://goo.gl/maps/GrcAzNeiZMVEhWzcA" },
+                      attrs: { href: "https://maps.app.goo.gl/863PD3bt9YUbVAMa7?g_st=ic" },
                     },
                     [
                       _vm._v(

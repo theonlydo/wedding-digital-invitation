@@ -80,24 +80,13 @@
                         </p>
                         <ul uk-accordion="" class="uk-accordion">
                             <li class="uk-open">
-                                <a class="uk-accordion-title" href="#">OVO</a>
+                                <a class="uk-accordion-title" href="#">QRIS</a>
                                 <div class="uk-accordion-content">
                                     <img
-                                        src="assets/images/gifts/ovo.jpg"
+                                        src="assets/images/gifts/qris.png"
                                         class="tw-mx-auto tw-h-auto"
                                         width="400"
-                                        alt="OVO QR CODE"
-                                    />
-                                </div>
-                            </li>
-                            <li class="uk-open">
-                                <a class="uk-accordion-title" href="#">BCA</a>
-                                <div class="uk-accordion-content">
-                                    <img
-                                        src="assets/images/gifts/bca.jpg"
-                                        class="tw-mx-auto tw-h-auto"
-                                        width="400"
-                                        alt="BCA QR CODE"
+                                        alt="QRIS"
                                     />
                                 </div>
                             </li>
